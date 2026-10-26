@@ -4,3 +4,4 @@
 3-listfiles: script prints the command that displays the directory contents in long format.
 4-listmorefiles: script that prints teh commands that lists all files, including hidden ones.
 5-listfilesdigitonly: script that lists all files, including hidden and displays user and group IDs numerically.
+6-firstdirectory: script that prints how to create a directory inside the /tmp directory.
