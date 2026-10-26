@@ -12,3 +12,4 @@
 11-lists: script that prints how to list all files in your current directory, parent directory and a specific directory, in order, in long format.
 12-file_type: script that prints a file named "imafile" ran in the /tmp directory.
 13-symbolic_link: script that prints how to create a symbolic link between two pathways.
+14-copy_html: script that tells you how to copy files, with a specific extension to its parent directory, with a condition - only copy files if it didn't exist in the parent directory, or if the current directory is a newer version than the one in the parent.
