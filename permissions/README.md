@@ -1,0 +1,1 @@
+- 0-iam_betty: script prints how to change current user to the user 'betty'
