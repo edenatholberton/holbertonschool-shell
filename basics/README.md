@@ -11,3 +11,4 @@
 10-back: script that prints how to return to the previous directory.
 11-lists: script that prints how to list all files in your current directory, parent directory and a specific directory, in order, in long format.
 12-file_type: script that prints a file named "imafile" ran in the /tmp directory.
+13-symbolic_link: script that prints how to create a symbolic link between two pathways.
