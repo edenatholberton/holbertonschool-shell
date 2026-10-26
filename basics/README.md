@@ -14,3 +14,4 @@
 13-symbolic_link: script that prints how to create a symbolic link between two pathways.
 14-copy_html: script that tells you how to copy files, with a specific extension to its parent directory, with a condition - only copy files if it didn't exist in the parent directory, or if the current directory is a newer version than the one in the parent.
 15-lets_move: script that moves all files beginning with an upercase letter to a different directory.
+16-clean_emacs: script that prints what deletes all files in the current working directory that end with the character ~.
