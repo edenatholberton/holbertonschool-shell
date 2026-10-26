@@ -9,3 +9,4 @@
 8-firstdelete: script that prints how to remove a file from a directory using an absolute path.
 9-firstdirdeletion: script that prints how to remove/delete a directory.
 10-back: script that prints how to return to the previous directory.
+11-lists: script that prints how to list all files in your current directory, parent directory and a specific directory, in order, in long format.
