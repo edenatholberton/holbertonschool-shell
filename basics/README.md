@@ -5,3 +5,4 @@
 4-listmorefiles: script that prints teh commands that lists all files, including hidden ones.
 5-listfilesdigitonly: script that lists all files, including hidden and displays user and group IDs numerically.
 6-firstdirectory: script that prints how to create a directory inside the /tmp directory.
+7-movethatfile: script that prints how to move file from one directory to another.
