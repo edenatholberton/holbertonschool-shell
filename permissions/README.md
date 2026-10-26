@@ -4,3 +4,4 @@
 - 3-new_owner: Did two things, A: created a /tmp file that writes a script that changes the owner of the file 'hello' to the user 'betty'. This meant I had to create a new user through the 'adduser betty' command. I then wrote the same script in the permissions directory.
 - 4-empty: Wrote a script that creates a new empty file (called hello)
 - 5-execute: Added a script that adds the execute permission to the owner of the file "hello".
+- 6-multiple_permissions: Added a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file "hello".
