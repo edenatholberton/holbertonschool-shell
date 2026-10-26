@@ -6,3 +6,4 @@
 - 5-execute: Added a script that adds the execute permission to the owner of the file "hello".
 - 6-multiple_permissions: Added a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file "hello".
 - 7-everybody: Wrote a script that changes the execute permissions for everybody.
+- 8-James_Bond: Wrote a script that sets permissions to a file with the owner and group having no permissions but others having them all. To get the answer for the script, I had to conver the rwx into binary to get a value.
