@@ -1,5 +1,6 @@
-- 0-iam_betty: script prints how to change current user to the user 'betty'
-- 1-who_am_i: script that prints the effective username of the current user.
-- 2-groups: script that prints all the groups the current user is a part of.
+- 0-iam_betty: Script prints how to change current user to the user 'betty'
+- 1-who_am_i: Script that prints the effective username of the current user.
+- 2-groups: Script that prints all the groups the current user is a part of.
 - 3-new_owner: Did two things, A: created a /tmp file that writes a script that changes the owner of the file 'hello' to the user 'betty'. This meant I had to create a new user through the 'adduser betty' command. I then wrote the same script in the permissions directory.
-- 4-empty: wrote a script that creates a new empty file (called hello)
+- 4-empty: Wrote a script that creates a new empty file (called hello)
+- 5-execute: Added a script that adds the execute permission to the owner of the file "hello".
