@@ -3,3 +3,4 @@
 2-bring_me_home: script prints the command that changes the users directory to the home directory.
 3-listfiles: script prints the command that displays the directory contents in long format.
 4-listmorefiles: script that prints teh commands that lists all files, including hidden ones.
+5-listfilesdigitonly: script that lists all files, including hidden and displays user and group IDs numerically.
