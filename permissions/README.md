@@ -2,3 +2,4 @@
 - 1-who_am_i: script that prints the effective username of the current user.
 - 2-groups: script that prints all the groups the current user is a part of.
 - 3-new_owner: Did two things, A: created a /tmp file that writes a script that changes the owner of the file 'hello' to the user 'betty'. This meant I had to create a new user through the 'adduser betty' command. I then wrote the same script in the permissions directory.
+- 4-empty: wrote a script that creates a new empty file (called hello)
