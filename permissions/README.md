@@ -9,3 +9,4 @@
 - 8-James_Bond: Wrote a script that sets permissions to a file with the owner and group having no permissions but others having them all. To get the answer for the script, I had to conver the rwx into binary to get a value.
 - 9-John_Doe: Wrote a script using numeric mode that set the permissions of the file "hello".
 - 10-mirror_permissions: Wrote a script using chmod --reference, which allowed me to copy one permission mode from a file to another.
+- 11-directories_permissions: Wrote a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files were not be changed.
