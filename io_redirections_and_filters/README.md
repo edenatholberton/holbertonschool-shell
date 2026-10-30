@@ -22,4 +22,4 @@ This is a README file for everything inside the "io_redirections_and_filters" fo
 - 19-AZ: Wrote a script that replace all characters A and c from input to Z and e respectively. - Used the 'tr' command, which stands for translate. 
 - 20-hiago: Wrote a script that removes all letters "C" and "c" from input ( tr -d )
 - 21-reverse: Wrote a script that reverses the input (simply just "rev"). 
-
+- 22-users_and_homes: Wrote a script that displays all users and their home directories, sorted by users. Had to look at man cut > delimeter option > field option. 
