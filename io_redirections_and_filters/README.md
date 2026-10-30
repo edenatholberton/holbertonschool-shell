@@ -10,4 +10,6 @@ This is a README file for everything inside the "io_redirections_and_filters" fo
 - 7-file: Wrote a script that creates a file named exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text Best School ending by a new line. This was done by adding a backslash to every ",\,$" which was 15 in total. Echo, and redirect were also used.
 - 8-cwd_state: Wrote a script that writes the results of "ls -la" into a specific file.
 - 9-duplicate_last_line: Wrote a script that duplicates the last line from a file to a file.
-- 10-no_more_js: Wrote a script that deletes all regular files ending in ".js", in the current directory and subdirectories. 
+- 10-no_more_js: Wrote a script that deletes all regular files ending in ".js", in the current directory and subdirectories.
+- 11-directories: Wrote a script that counts the number of directories and sub-directories. But this time, the current and parents directories should not be included in the count. The command -mindepth was used, and a pipe "|".
+
