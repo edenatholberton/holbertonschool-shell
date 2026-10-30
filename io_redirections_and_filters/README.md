@@ -6,3 +6,4 @@ This is a README file for everything inside the "io_redirections_and_filters" fo
 - 3-twofiles: Wrote a script that prints how to display contents of two different files at the same time.
 - 4-lastlines: Wrote a script that produces the last 10 lines of a file - using the TAIL command.
 - 5-firstlines: Wrote a script that produces the first 10 lines of a file - using the HEAD command.
+- 6-third_line: Wrote a script that prints how to display a specific line of code. First use of the pipe (|) tool as well.
