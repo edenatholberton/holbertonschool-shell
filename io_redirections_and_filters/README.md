@@ -13,4 +13,5 @@ This is a README file for everything inside the "io_redirections_and_filters" fo
 - 10-no_more_js: Wrote a script that deletes all regular files ending in ".js", in the current directory and subdirectories.
 - 11-directories: Wrote a script that counts the number of directories and sub-directories. But this time, the current and parents directories should not be included in the count. The command -mindepth was used, and a pipe "|".
 - 12-newest_files: Wrote a script that displays the 10 newest files in the current directory. With the rules of one file per line and sorted from newest to oldest. "-t" was used here.
+- 13-unique: Wrote a script that takes a list of words as input and prints only words that appear exactly once. Input & output = one line, one word and the words should be sorted. So I used the uniq command with -u to identify the "unique" words in the list.
 
