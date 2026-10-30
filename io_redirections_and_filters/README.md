@@ -16,4 +16,6 @@ This is a README file for everything inside the "io_redirections_and_filters" fo
 - 13-unique: Wrote a script that takes a list of words as input and prints only words that appear exactly once. Input & output = one line, one word and the words should be sorted. So I used the uniq command with -u to identify the "unique" words in the list.
 - 14-findthatword: Wrote a script that uses "grep" to display lines containing a pattern from a specific file.
 - 15-countthatword: Wrote a script that display the number of lines that contain the pattern "bin" in the file /etc/passwd. Found in "man grep /count". 
-- 16-whatsnext: Wrote a script that display lines containing the pattern "root" and 3 lines after them in the file /etc/passwd. Found in "man grep /context". 
+- 16-whatsnext: Wrote a script that display lines containing the pattern "root" and 3 lines after them in the file /etc/passwd. Found in "man grep /context".
+- 17-hidethisword: Wrote a script that display all the lines in the file /etc/passwd that do not contain the pattern "bin". So the command -v (invert) was used here.
+ 
