@@ -7,3 +7,4 @@ README.md file for the subdirectory: init_files_variables_and_expansions. Will l
 - 5-local_variables: Created a script that lists all local variables and environment variables, and functions. This was displayed with the 'set' command.
 - 6-create_local_variable: Created a script that creates a new local variable.
 - 7-create_global_variable: Created a script that creates a new global variable - this is referred to as Exporting [a] variable.
+- 8-true_knowledge: Wrote a script that prints the result of the addition of 128 with tehvalue stored in the environemtn variable 'TRUEKNOWLEDGE', follow by a new line. - Arithmetic expansion. 
