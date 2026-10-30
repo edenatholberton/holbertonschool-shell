@@ -18,4 +18,5 @@ This is a README file for everything inside the "io_redirections_and_filters" fo
 - 15-countthatword: Wrote a script that display the number of lines that contain the pattern "bin" in the file /etc/passwd. Found in "man grep /count". 
 - 16-whatsnext: Wrote a script that display lines containing the pattern "root" and 3 lines after them in the file /etc/passwd. Found in "man grep /context".
 - 17-hidethisword: Wrote a script that display all the lines in the file /etc/passwd that do not contain the pattern "bin". So the command -v (invert) was used here.
- 
+- 18-letteronly: Wrote a script that display all lines of the file /etc/ssh/sshd_config starting with a letter (lower and captial). This was difficult, but found in man grep > /anchoring & /bracket expression.
+
