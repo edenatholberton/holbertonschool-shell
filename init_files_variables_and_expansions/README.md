@@ -11,3 +11,4 @@ README.md file for the subdirectory: init_files_variables_and_expansions. Will l
 - 9-divide_and_rule: Wrote a script that prints the results, from a division arithmetic expansion. "POWER" and "DIVIDE" being environment variables.
 - 10-love_exponent_breath: Wrote a script that prints two variables from the power of using arithmetic expansion. (**)
 - 11-binary_to_decimal: Wrote a script that converts a number from base 2 to base 10. + the number in base 2 was stored in the environment variable 'BINARY'
+- 12-combinations: Wrote a script that prints all the possible combinations of two letters except "oo". echo for the print, tr for the new line ('\n'), and grep to remove the oo were all used.
