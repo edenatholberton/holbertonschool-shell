@@ -5,3 +5,4 @@ README.md file for the subdirectory: init_files_variables_and_expansions. Will l
 - 3-paths: Added script that counts the number of directories in the PATH. Used variables, expansions and filter commands.
 - 4-global_variables: Created a script that lists environment variables.
 - 5-local_variables: Created a script that lists all local variables and environment variables, and functions. This was displayed with the 'set' command.
+- 6-create_local_variable: Created a script that creates a new local variable.
