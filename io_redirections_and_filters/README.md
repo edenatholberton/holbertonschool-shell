@@ -9,3 +9,4 @@ This is a README file for everything inside the "io_redirections_and_filters" fo
 - 6-third_line: Wrote a script that prints how to display a specific line of code. First use of the pipe (|) tool as well.
 - 7-file: Wrote a script that creates a file named exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text Best School ending by a new line. This was done by adding a backslash to every ",\,$" which was 15 in total. Echo, and redirect were also used.
 - 8-cwd_state: Wrote a script that writes the results of "ls -la" into a specific file.
+- 9-duplicate_last_line: Wrote a script that duplicates the last line from a file to a file.
