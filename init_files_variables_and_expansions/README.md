@@ -12,3 +12,4 @@ README.md file for the subdirectory: init_files_variables_and_expansions. Will l
 - 10-love_exponent_breath: Wrote a script that prints two variables from the power of using arithmetic expansion. (**)
 - 11-binary_to_decimal: Wrote a script that converts a number from base 2 to base 10. + the number in base 2 was stored in the environment variable 'BINARY'
 - 12-combinations: Wrote a script that prints all the possible combinations of two letters except "oo". echo for the print, tr for the new line ('\n'), and grep to remove the oo were all used.
+- 13-print_float: Wrote a script that prints a number with two decimal places, followed by a new line. printf, %, .2, f, \n, $num were all used.
